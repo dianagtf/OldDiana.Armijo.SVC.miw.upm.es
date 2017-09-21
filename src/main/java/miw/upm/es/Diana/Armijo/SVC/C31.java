@@ -9,5 +9,10 @@ public class C31 {
 	public String m2() {
 		return "";
 	}
+	
+	public String mB() {
+		return "";
+	}
+	
 
 }
