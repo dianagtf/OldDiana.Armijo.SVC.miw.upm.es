@@ -9,4 +9,8 @@ public class C21 {
 	public String m2() {
 		return "";
 	}
+	
+	public String m3() {
+		return "";
+	}
 }
